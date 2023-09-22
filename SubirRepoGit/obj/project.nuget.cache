@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "h2Uw9qp8SWqPZQZV8I5Pm2V248eoCSigJ/gNg/GdTRr/XFDNQ1nhfQmpRgiKXnTRFLEadBhK/WMjG5nAzKEXlA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joaod\\OneDrive\\Área de Trabalho\\SubirRepoGit\\SubirRepoGit.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joaod\\.nuget\\packages\\libgit2sharp\\0.27.2\\libgit2sharp.0.27.2.nupkg.sha512",
+    "C:\\Users\\joaod\\.nuget\\packages\\libgit2sharp.nativebinaries\\2.0.320\\libgit2sharp.nativebinaries.2.0.320.nupkg.sha512",
+    "C:\\Users\\joaod\\.nuget\\packages\\octokit\\7.1.0\\octokit.7.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
